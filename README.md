@@ -9,6 +9,8 @@ A single-file Python demo that prints an animated **"Hello, World!"** banner usi
 python hello.py
 ```
 
+On Windows PowerShell, use `python` (or `py hello.py` if the launcher is installed).
+
 ## Requirements
 
 - Python 3.7+ (uses `sys.stdout.reconfigure` and f-strings)
